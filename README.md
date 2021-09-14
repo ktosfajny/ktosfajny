@@ -26,16 +26,16 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 #### Frontend
 
 <div>
-<img width="40px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp &nbsp
-<img width="40px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp &nbsp
-<img width="40px" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> &nbsp &nbsp
-<img width="40px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp &nbsp
-  <img width="40px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
-<img width="40px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp &nbsp
-<img width="40px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
-<img width="40px" alt="styled-components" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" /> &nbsp &nbsp
-<img width="40px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp
-<img width="40px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp 
+<img width="50px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp &nbsp
+<img width="50px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp &nbsp
+<img width="50px" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> &nbsp &nbsp
+<img width="50px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp &nbsp
+  <img width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
+<img width="50px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp &nbsp
+<img width="50px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
+<img width="50px" alt="styled-components" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" /> &nbsp &nbsp
+<img width="50px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp
+<img width="50px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp 
 <img width="50px" alt="next" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /> &nbsp &nbsp 
 <img width="50px" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> &nbsp &nbsp 
 <img width="50px" alt="apollo-client" src="https://bookface-images.s3.amazonaws.com/logos/f557fb3adbfb6597160ed6ccac4de5368e1bd619.png?1588099434" /> &nbsp &nbsp 
@@ -49,10 +49,10 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 #### Backend
 
 <div>
-<img width="40px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp &nbsp
-<img height="60px" alt="MongoDB" src="https://icon2.cleanpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" /> &nbsp &nbsp
-<img width="60px" alt="express" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
-<img width="40px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
+<img width="50px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp &nbsp
+<img height="50px" alt="MongoDB" src="https://icon2.cleanpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" /> &nbsp &nbsp
+<img width="50px" alt="express" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
+<img width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
 </div>
 
 

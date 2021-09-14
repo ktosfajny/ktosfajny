@@ -21,11 +21,26 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktosfajny)](https://github.com/ktosfajny/github-readme-stats)
 
 
-### Frontend 🛠️:
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/220px-Sass_Logo_Color.svg.png)
-![alt text](https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png)
+### Languages and Tools 🛠️
 
+#### Frontend
+
+<div>
+<img width="40px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp &nbsp
+<img width="40px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp &nbsp
+<img width="40px" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> &nbsp &nbsp
+<img width="40px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp &nbsp
+  <img width="40px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
+<img width="40px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp &nbsp
+</div>
+
+#### Backend
+
+<div>
+<img width="40px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp &nbsp
+<img height="40px" alt="MongoDB" src="./images/mongodb.png" /> &nbsp &nbsp
+<img width="40px" alt="Nest.js" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
+<img width="40px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
+</div>
 
 

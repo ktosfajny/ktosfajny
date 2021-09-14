@@ -50,8 +50,8 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 
 <div>
 <img width="50px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp &nbsp
-<img height="50px" alt="MongoDB" src="https://icon2.cleanpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg" /> &nbsp &nbsp
-<img width="50px" alt="express" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
+<img height="50px" alt="MongoDB" src="https://www.clipartmax.com/png/middle/114-1147615_mongodb-leaf-open-source-nosql-database-startups-mongodb-logo.pngg" /> &nbsp &nbsp
+<img width="80px" alt="express" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
 <img width="50px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
 </div>
 
@@ -59,7 +59,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 #### Tools
 
 <div>
-<img width="40px" alt="visual studio code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> &nbsp &nbsp
-<img width="40px" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /> &nbsp &nbsp
+<img width="50px" alt="visual studio code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> &nbsp &nbsp
+<img width=540px" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /> &nbsp &nbsp
 </div>
 

@@ -34,8 +34,8 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <img width="40px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp &nbsp
 <img width="40px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
 <img width="40px" alt="styled-components" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" /> &nbsp &nbsp
-<img width="40px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp 
-  
+<img width="40px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp
+<img width="40px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp 
 
 </div>
 
@@ -45,8 +45,8 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 
 <div>
 <img width="40px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp &nbsp
-<img height="40px" alt="MongoDB" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" /> &nbsp &nbsp
-<img width="40px" alt="Nest.js" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
+<img height="60px" alt="MongoDB" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" /> &nbsp &nbsp
+<img width="60px" alt="express" src="https://expressjs.com/images/express-facebook-share.png" /> &nbsp &nbsp
 <img width="40px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp &nbsp
 </div>
 

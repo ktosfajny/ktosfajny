@@ -35,10 +35,10 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <img width="50px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" /> &nbsp &nbsp
 <img width="50px" alt="styled-components" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" /> &nbsp &nbsp
 <img width="50px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp
-<img width="50px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp 
-<img width="50px" alt="next" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /> &nbsp &nbsp 
-<img width="50px" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> &nbsp &nbsp 
-<img width="50px" alt="apollo-client" src="https://bookface-images.s3.amazonaws.com/logos/f557fb3adbfb6597160ed6ccac4de5368e1bd619.png?1588099434" /> &nbsp &nbsp 
+<!-- <img width="50px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp  -->
+<!-- <img width="50px" alt="next" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /> &nbsp &nbsp  -->
+<!-- <img width="50px" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> &nbsp &nbsp  -->
+<!-- <img width="50px" alt="apollo-client" src="https://bookface-images.s3.amazonaws.com/logos/f557fb3adbfb6597160ed6ccac4de5368e1bd619.png?1588099434" /> &nbsp &nbsp  -->
   
   
   

@@ -36,7 +36,10 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 <img width="40px" alt="styled-components" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" /> &nbsp &nbsp
 <img width="40px" alt="material-ui" src="https://material-ui.com/static/logo.png" /> &nbsp &nbsp
 <img width="40px" alt="jwt" src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" /> &nbsp &nbsp 
-<img width="50px" alt="next" src="https://tkssharma.com/static/6038e35c19cde1cd7c3e89262a45a01d/1e9e2/nextjs.png" /> &nbsp &nbsp 
+<img width="50px" alt="next" src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" /> &nbsp &nbsp 
+<img width="50px" alt="graphql" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" /> &nbsp &nbsp 
+<img width="50px" alt="apollo-client" src="https://bookface-images.s3.amazonaws.com/logos/f557fb3adbfb6597160ed6ccac4de5368e1bd619.png?1588099434" /> &nbsp &nbsp 
+  
   
   
 </div>

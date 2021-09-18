@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktosfajny&langs_count=8)](https://github.com/ktosfajny/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktosfajny&langs_count=10)](https://github.com/ktosfajny/github-readme-stats)
 
 
 ### My Stack 🛠️
